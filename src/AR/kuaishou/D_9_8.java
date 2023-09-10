@@ -1,4 +1,4 @@
-package qiuzhao.kuaishou;
+package AR.kuaishou;
 
 /**
  * @author chopper

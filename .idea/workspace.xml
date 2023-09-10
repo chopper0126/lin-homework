@@ -50,11 +50,11 @@
 }</component>
   <component name="RunManager" selected="应用程序.T3">
     <configuration name="D_9_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiuzhao.kuaishou.D_9_8" />
+      <option name="MAIN_CLASS_NAME" value="AR.kuaishou.D_9_8" />
       <module name="lin-homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiuzhao.kuaishou.*" />
+          <option name="PATTERN" value="AR.kuaishou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="T3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qiuzhao.elm.D_9_8.T3" />
+      <option name="MAIN_CLASS_NAME" value="AR.D_9_8.T3" />
       <module name="lin-homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qiuzhao.elm.D_9_8.*" />
+          <option name="PATTERN" value="AR.D_9_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
